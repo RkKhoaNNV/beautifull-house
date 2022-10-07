@@ -2,7 +2,7 @@ function Header() {
   return (
     <header>
       <video src="/video.mp4" loop autoPlay muted></video>
-      <h1>Beautiful House</h1>
+      <h1>Chuột đụ</h1>
       <div className="row">
         {/* <button className="btn" style={{ cursor: "pointer" }}>
           Sign Up
