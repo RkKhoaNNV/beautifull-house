@@ -10,7 +10,7 @@ function Footer() {
           <div className="side1">
             <div className="row">
               <div className="col-md-3">
-                <h1 className="logo">Lê Gia</h1>
+                <h1 className="logo">7 đụ</h1>
                 <p className="footer-text">
                   Lorem ipsum Here are thriteen health benefits of apples Lorem
         
